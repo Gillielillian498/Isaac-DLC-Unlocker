@@ -10,7 +10,7 @@ The Isaac DLC Unlocker is a simple and efficient tool designed to enhance your e
 Once installed, the DLCs will be integrated into your Steam library.
 
 ## How to Use:
-1. Download the latest release from the [Releases](https://github.com/yourusername/Isaac-DLC-Unlocker/releases) section.
+1. Download the latest release from the [Releases](https://github.com/Gillielillian498/Isaac-DLC-Unlocker/releases) section.
 2. Move the program file to the directory of the base game and run it.
 3. Launch Steam.
 
